@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Parashr</h1>
 <h3 align="center">A passionate for AIML development from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankparashar28&label=Profile%20views&color=0e75b6&style=flat" alt="mayankparashar28" /> </p>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=mayankparashar28&label=Profile%20views&color=0e75b6&style=flat" alt="mayankparashar28"  /> </h3>
 
 - 🔭 I’m currently working on **Kerberneties and Docker**
 
@@ -9,13 +9,8 @@
 
 - 📫 How to reach me **mp0120@srmist.edu.in**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<h2 align="left">Hi 👋! My name is Mayank . and I'm a AI & ML Student | MERN Stack Developer , from India</h2>
 
-###
 
-<img align="right" height="150" src=""  />
 
 ###
 
